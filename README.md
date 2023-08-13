@@ -35,16 +35,16 @@ MovieMach comes with a range of exciting features that enhance the user experien
 ## Getting Started :desktop_computer:
 To set up MovieMach on your local machine, follow these steps:
 
-1️⃣:  Clone this repository to your preferred directory using the following command:
+1️⃣  Clone this repository to your preferred directory using the following command:
 
 ```
 git clone https://github.com/carpodok/MovieMatch
 ```
-2️⃣: Open the cloned project in Android Studio.
+2️⃣ Open the cloned project in Android Studio.
 
-3️⃣: In order to fetch movie data, you will need an API key from The Movie Database (TMDb). You can obtain your API key by signing up at <a href="https://www.themoviedb.org/" target="_blank"> here </a>
+3️⃣ In order to fetch movie data, you will need an API key from The Movie Database (TMDb). You can obtain your API key by signing up at <a href="https://www.themoviedb.org/" target="_blank"> here </a>
 
-4️⃣: Once you have your API key, add the key into Constants object class like the following:
+4️⃣ Once you have your API key, add the key into Constants object class like the following:
 
 ```
 object Constants {
@@ -57,7 +57,7 @@ object Constants {
 
 ```
 
-5️⃣: Build and run the app on an emulator or a physical device.
+5️⃣ Build and run the app on an emulator or a physical device.
 
 
 ### Contact :envelope:
