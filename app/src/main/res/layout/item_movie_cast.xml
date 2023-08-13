@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="150dp"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    app:cardCornerRadius="15dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <ImageView
+            android:id="@+id/movieCastProfile"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            app:layout_constraintBottom_toTopOf="@+id/movieCastName"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0"
+            app:layout_constraintVertical_weight="0.7" />
+
+        <TextView
+            android:id="@+id/movieCastName"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:fontFamily="@font/livvic_medium"
+            android:gravity="center"
+            android:paddingHorizontal="5dp"
+            android:text="asdfasdasdasdas"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toTopOf="@+id/movieCastCharacter"
+            app:layout_constraintTop_toBottomOf="@+id/movieCastProfile"
+            app:layout_constraintVertical_weight="0.2" />
+
+
+        <TextView
+            android:id="@+id/movieCastCharacter"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:fontFamily="@font/livvic"
+            android:gravity="center"
+            android:paddingHorizontal="5dp"
+            android:text="sadasdasdasd"
+            android:textSize="12dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/movieCastName"
+            app:layout_constraintVertical_weight="0.1" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</androidx.cardview.widget.CardView>
