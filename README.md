@@ -1,5 +1,5 @@
 # MovieMatch 	:clapper:
-Welcome to the MovieMach GitHub repository! MovieMach is a cutting-edge Android application that allows users to explore a vast collection of movies using modern technologies and best practices. This README file provides an overview of the app, its features, and the technologies utilized to bring it to life.
+ MovieMach is a cutting-edge Android application that allows users to explore a vast collection of movies using modern technologies and best practices. This README file provides an overview of the app, its features, and the technologies utilized to bring it to life.
 
 ![movie_match_back](https://github.com/carpodok/MovieMatch/assets/64840495/5b7a967e-47d9-4a76-aaea-613d0dbf47bc)
 
