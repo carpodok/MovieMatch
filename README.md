@@ -7,10 +7,10 @@
 &nbsp;
   <img src="https://github.com/carpodok/MovieMatch/assets/64840495/a48bbdc6-3398-46a5-9453-c93046be9926.png"  height="700" >
 
-<br><br>
+
 
    <img src="https://github.com/carpodok/MovieMatch/assets/64840495/fcbaeff9-30c8-4477-8b9e-ca50c34f6a1f.png"  height="700" >
-&nbsp;&nbsp;
+&nbsp;
    <img src="https://github.com/carpodok/MovieMatch/assets/64840495/f7de6ba5-b1ce-46aa-a118-584d2243caa6.png"  height="700" >
    
 
