@@ -17,6 +17,8 @@ MovieMach comes with a range of exciting features that enhance the user experien
 
 :small_orange_diamond: <a href="https://developer.android.com/kotlin/flow" target="_blank"> Coroutines Flow </a> Coroutines Flow for LiveData Updates: To provide real-time updates to the UI, MovieMach utilizes Coroutines Flow in combination with LiveData. This combination allows the app to observe data changes and deliver them to the UI efficiently, resulting in a responsive and up-to-date user experience.
 
+:small_orange_diamond: <a href="https://developer.android.com/training/data-storage/room" target="_blank"> Room Database </a> : MovieMach integrates the Room Persistence Library for local storage. This allows the app to cache movie data locally, enabling users to access their favorite movies even when offline.
+
 :small_orange_diamond: Image Loading with <a href="https://github.com/bumptech/glide" target="_blank">Glide Library</a> : The Glide library is integrated into MovieMach for smooth and optimized image loading. It automatically handles image caching, resizing, and rendering, contributing to fast and visually appealing movie browsing.
 
 ## Getting Started :desktop_computer:
