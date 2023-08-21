@@ -1,13 +1,20 @@
 # MovieMatch 	:clapper:
+
+<p align="center"> 
+	<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/64840495/261942444-efb2061d-c21d-4348-ab19-9c48837b11e8.png" alt="pokeapp" /> 
+</p>
+
+<br><br>
+
  MovieMach is a cutting-edge Android application that allows users to explore a vast collection of movies using modern technologies and best practices. This README file provides an overview of the app, its features, and the technologies utilized to bring it to life.
+
+ <br><br>
 
  <img src="https://github.com/carpodok/MovieMatch/assets/64840495/3c7e7c57-fffb-4998-8579-410698c48999.png"  height="700" >
 &nbsp;
  <img src="https://github.com/carpodok/MovieMatch/assets/64840495/f5ce4b62-cab8-47bd-9be3-591439f4aaed.png"  height="700" >
 &nbsp;
   <img src="https://github.com/carpodok/MovieMatch/assets/64840495/a48bbdc6-3398-46a5-9453-c93046be9926.png"  height="700" >
-
-
 
    <img src="https://github.com/carpodok/MovieMatch/assets/64840495/fcbaeff9-30c8-4477-8b9e-ca50c34f6a1f.png"  height="700" >
 &nbsp;
