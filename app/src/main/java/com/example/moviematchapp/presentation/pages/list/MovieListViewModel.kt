@@ -96,7 +96,7 @@ class MovieListViewModel @Inject constructor(
 
 
                         Log.i(
-                            "trendingMovieResponse",
+                            "aaa",
                             "trendingMovieResponse : ${trendingMovieResponse.backdropPath}"
                         )
 

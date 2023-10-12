@@ -277,6 +277,8 @@ class TrendingMovieListFragment : Fragment() {
                         binding.tvError.visibility = View.GONE
 
                         state.pagingData.collectLatest {
+
+
                             moviesPagerAdapter.submitData(it)
                         }
 
